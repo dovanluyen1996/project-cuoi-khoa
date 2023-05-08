@@ -3,6 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+/* ---------------------- */
 header h1{
     color: red;
+}
+
+.main-center h2 {
+    color: yellow;
 }
